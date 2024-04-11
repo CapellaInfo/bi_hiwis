@@ -1,0 +1,301 @@
+ID Evento;Data do Evento;Localização;Número de Participantes;Tipo de Evento;Avaliação Pós-Evento
+1;28/09/2023;Porto Alegre/RS;509;Esportivo;2
+2;15/06/2023;Belo Horizonte/MG;295;Esportivo;2
+3;24/01/2023;São Paulo/SP;712;Corporativo;3
+4;02/05/2023;Porto Alegre/RS;261;Corporativo;1
+5;16/01/2023;São Paulo/SP;235;Social;4
+6;19/04/2023;Rio de Janeiro/RJ;270;Educativo;4
+7;19/01/2023;São Paulo/SP;830;Esportivo;1
+8;10/07/2023;Rio de Janeiro/RJ;145;Social;1
+9;01/06/2023;Belo Horizonte/MG;236;Educativo;1
+10;19/04/2023;Rio de Janeiro/RJ;325;Social;2
+11;06/04/2023;Rio de Janeiro/RJ;816;Esportivo;2
+12;07/08/2023;Salvador/BA;204;Corporativo;2
+13;28/06/2023;Porto Alegre/RS;58;Corporativo;5
+14;27/01/2023;Porto Alegre/RS;242;Educativo;4
+15;21/06/2023;Belo Horizonte/MG;203;Cultural;4
+16;23/02/2023;Belo Horizonte/MG;514;Educativo;3
+17;13/11/2023;Porto Alegre/RS;446;Cultural;2
+18;08/09/2023;Salvador/BA;197;Social;5
+19;16/02/2023;Porto Alegre/RS;938;Social;5
+20;23/02/2023;Salvador/BA;447;Esportivo;4
+21;21/12/2023;Belo Horizonte/MG;313;Cultural;2
+22;08/08/2023;São Paulo/SP;871;Esportivo;3
+23;07/06/2023;Belo Horizonte/MG;170;Corporativo;2
+24;13/01/2023;Belo Horizonte/MG;403;Cultural;1
+25;19/01/2023;Rio de Janeiro/RJ;657;Educativo;2
+26;04/04/2023;Rio de Janeiro/RJ;832;Corporativo;1
+27;24/04/2023;Rio de Janeiro/RJ;327;Corporativo;1
+28;20/01/2023;Rio de Janeiro/RJ;355;Educativo;3
+29;26/07/2023;Salvador/BA;965;Corporativo;4
+30;06/10/2023;Porto Alegre/RS;765;Cultural;2
+31;06/04/2023;São Paulo/SP;911;Esportivo;1
+32;14/08/2023;Belo Horizonte/MG;394;Corporativo;2
+33;28/09/2023;Salvador/BA;27;Cultural;4
+34;20/10/2023;São Paulo/SP;360;Social;4
+35;27/07/2023;Salvador/BA;148;Cultural;5
+36;19/07/2023;Salvador/BA;795;Esportivo;4
+37;07/04/2023;Belo Horizonte/MG;688;Cultural;3
+38;14/06/2023;Porto Alegre/RS;371;Educativo;1
+39;06/07/2023;Rio de Janeiro/RJ;377;Esportivo;5
+40;13/06/2023;Porto Alegre/RS;536;Social;3
+41;13/03/2023;Belo Horizonte/MG;514;Educativo;2
+42;27/10/2023;Belo Horizonte/MG;105;Cultural;1
+43;27/01/2023;Belo Horizonte/MG;194;Esportivo;4
+44;01/06/2023;São Paulo/SP;821;Social;1
+45;15/11/2023;Porto Alegre/RS;212;Educativo;2
+46;10/01/2023;Porto Alegre/RS;330;Social;5
+47;09/06/2023;Salvador/BA;138;Cultural;5
+48;14/11/2023;Salvador/BA;237;Social;5
+49;16/01/2023;Salvador/BA;446;Corporativo;4
+50;28/11/2023;Belo Horizonte/MG;989;Educativo;3
+51;12/09/2023;Porto Alegre/RS;433;Social;3
+52;19/10/2023;Belo Horizonte/MG;133;Cultural;1
+53;26/01/2023;São Paulo/SP;997;Cultural;4
+54;27/10/2023;Salvador/BA;164;Social;5
+55;06/04/2023;Belo Horizonte/MG;557;Cultural;5
+56;24/02/2023;Belo Horizonte/MG;667;Esportivo;2
+57;04/07/2023;São Paulo/SP;322;Esportivo;2
+58;20/01/2023;Rio de Janeiro/RJ;763;Esportivo;5
+59;02/05/2023;Porto Alegre/RS;900;Corporativo;5
+60;06/02/2023;Rio de Janeiro/RJ;607;Social;4
+61;09/08/2023;Salvador/BA;859;Corporativo;3
+62;12/12/2023;Belo Horizonte/MG;364;Cultural;2
+63;27/11/2023;São Paulo/SP;833;Corporativo;3
+64;08/06/2023;São Paulo/SP;983;Cultural;4
+65;10/08/2023;Porto Alegre/RS;820;Cultural;5
+66;27/10/2023;Rio de Janeiro/RJ;20;Educativo;3
+67;03/07/2023;Porto Alegre/RS;166;Esportivo;5
+68;24/01/2023;Belo Horizonte/MG;306;Cultural;5
+69;10/07/2023;Porto Alegre/RS;995;Educativo;1
+70;24/10/2023;São Paulo/SP;673;Esportivo;3
+71;24/01/2023;São Paulo/SP;72;Cultural;3
+72;09/06/2023;Salvador/BA;323;Cultural;5
+73;23/02/2023;Salvador/BA;88;Corporativo;4
+74;04/10/2023;Belo Horizonte/MG;380;Corporativo;1
+75;27/04/2023;Rio de Janeiro/RJ;621;Esportivo;5
+76;14/04/2023;Porto Alegre/RS;977;Cultural;2
+77;24/03/2023;Belo Horizonte/MG;239;Social;2
+78;13/11/2023;Salvador/BA;981;Corporativo;1
+79;03/02/2023;Porto Alegre/RS;723;Esportivo;4
+80;22/05/2023;Salvador/BA;985;Cultural;5
+81;23/03/2023;Porto Alegre/RS;594;Cultural;3
+82;04/04/2023;Rio de Janeiro/RJ;604;Social;1
+83;14/02/2023;Belo Horizonte/MG;180;Esportivo;4
+84;06/01/2023;Porto Alegre/RS;700;Cultural;3
+85;25/05/2023;São Paulo/SP;108;Corporativo;2
+86;17/02/2023;São Paulo/SP;707;Social;2
+87;20/01/2023;Porto Alegre/RS;800;Esportivo;3
+88;25/04/2023;Porto Alegre/RS;604;Social;1
+89;17/04/2023;Porto Alegre/RS;776;Corporativo;2
+90;28/07/2023;São Paulo/SP;608;Esportivo;5
+91;23/02/2023;São Paulo/SP;178;Social;3
+92;20/02/2023;Porto Alegre/RS;508;Educativo;3
+93;20/01/2023;Salvador/BA;990;Corporativo;2
+94;05/05/2023;Salvador/BA;343;Corporativo;1
+95;09/03/2023;Rio de Janeiro/RJ;629;Corporativo;5
+96;18/08/2023;Belo Horizonte/MG;400;Educativo;1
+97;15/11/2023;Salvador/BA;121;Educativo;4
+98;18/07/2023;São Paulo/SP;513;Cultural;4
+99;07/08/2023;Salvador/BA;663;Social;2
+100;05/05/2023;Rio de Janeiro/RJ;633;Cultural;2
+101;20/10/2023;Rio de Janeiro/RJ;38;Social;2
+102;03/02/2023;Belo Horizonte/MG;473;Educativo;4
+103;29/08/2023;Salvador/BA;501;Educativo;1
+104;14/08/2023;São Paulo/SP;613;Cultural;1
+105;01/05/2023;São Paulo/SP;416;Esportivo;2
+106;09/01/2023;Porto Alegre/RS;298;Cultural;5
+107;05/04/2023;São Paulo/SP;870;Social;1
+108;06/06/2023;Belo Horizonte/MG;384;Cultural;4
+109;10/10/2023;Belo Horizonte/MG;350;Corporativo;3
+110;08/11/2023;São Paulo/SP;660;Social;3
+111;10/10/2023;São Paulo/SP;363;Social;3
+112;14/04/2023;Porto Alegre/RS;841;Esportivo;5
+113;27/01/2023;São Paulo/SP;474;Educativo;2
+114;06/09/2023;Porto Alegre/RS;620;Social;4
+115;12/12/2023;Porto Alegre/RS;744;Educativo;5
+116;28/04/2023;São Paulo/SP;674;Cultural;4
+117;19/01/2023;Rio de Janeiro/RJ;84;Corporativo;4
+118;04/01/2023;Rio de Janeiro/RJ;95;Esportivo;2
+119;20/11/2023;Porto Alegre/RS;730;Educativo;3
+120;28/08/2023;São Paulo/SP;162;Social;2
+121;07/08/2023;Rio de Janeiro/RJ;936;Educativo;5
+122;22/02/2023;São Paulo/SP;934;Social;5
+123;09/03/2023;São Paulo/SP;847;Educativo;5
+124;02/01/2023;São Paulo/SP;624;Social;2
+125;20/02/2023;Salvador/BA;492;Cultural;4
+126;15/06/2023;São Paulo/SP;436;Social;4
+127;12/05/2023;Salvador/BA;324;Social;1
+128;20/01/2023;Porto Alegre/RS;755;Corporativo;5
+129;06/01/2023;Rio de Janeiro/RJ;516;Social;4
+130;02/01/2023;Rio de Janeiro/RJ;310;Corporativo;1
+131;06/04/2023;Rio de Janeiro/RJ;959;Esportivo;4
+132;04/04/2023;Rio de Janeiro/RJ;121;Corporativo;5
+133;28/06/2023;Rio de Janeiro/RJ;286;Cultural;3
+134;17/07/2023;Rio de Janeiro/RJ;886;Corporativo;5
+135;26/10/2023;Rio de Janeiro/RJ;987;Esportivo;2
+136;22/05/2023;Porto Alegre/RS;641;Cultural;4
+137;08/02/2023;São Paulo/SP;993;Educativo;4
+138;19/01/2023;Belo Horizonte/MG;861;Educativo;2
+139;14/08/2023;Salvador/BA;981;Corporativo;2
+140;06/12/2023;Belo Horizonte/MG;961;Corporativo;3
+141;10/10/2023;Belo Horizonte/MG;796;Esportivo;4
+142;06/01/2023;São Paulo/SP;22;Esportivo;4
+143;27/10/2023;São Paulo/SP;104;Social;3
+144;01/11/2023;São Paulo/SP;813;Esportivo;1
+145;16/02/2023;Rio de Janeiro/RJ;347;Social;3
+146;22/12/2023;Porto Alegre/RS;835;Cultural;5
+147;17/03/2023;Rio de Janeiro/RJ;469;Corporativo;4
+148;31/07/2023;Porto Alegre/RS;473;Cultural;2
+149;21/12/2023;Porto Alegre/RS;943;Esportivo;5
+150;20/09/2023;Belo Horizonte/MG;648;Cultural;4
+151;11/05/2023;Belo Horizonte/MG;240;Cultural;3
+152;27/10/2023;Porto Alegre/RS;173;Cultural;5
+153;22/05/2023;Porto Alegre/RS;684;Esportivo;4
+154;01/06/2023;Rio de Janeiro/RJ;31;Cultural;1
+155;15/08/2023;Rio de Janeiro/RJ;152;Social;1
+156;01/09/2023;Belo Horizonte/MG;323;Esportivo;2
+157;22/05/2023;São Paulo/SP;312;Cultural;4
+158;06/06/2023;Porto Alegre/RS;994;Esportivo;1
+159;01/09/2023;Rio de Janeiro/RJ;319;Educativo;3
+160;08/06/2023;Belo Horizonte/MG;759;Social;4
+161;08/11/2023;Rio de Janeiro/RJ;802;Cultural;3
+162;11/05/2023;Porto Alegre/RS;62;Educativo;3
+163;05/07/2023;Porto Alegre/RS;963;Educativo;1
+164;03/08/2023;Salvador/BA;362;Esportivo;4
+165;02/10/2023;São Paulo/SP;345;Educativo;5
+166;30/06/2023;Salvador/BA;833;Social;1
+167;21/06/2023;Belo Horizonte/MG;517;Social;1
+168;28/06/2023;Rio de Janeiro/RJ;383;Corporativo;4
+169;08/08/2023;Belo Horizonte/MG;910;Social;4
+170;13/06/2023;Porto Alegre/RS;446;Educativo;3
+171;24/10/2023;Salvador/BA;40;Social;4
+172;16/05/2023;Salvador/BA;426;Esportivo;3
+173;12/09/2023;Salvador/BA;638;Corporativo;1
+174;28/06/2023;Belo Horizonte/MG;355;Educativo;2
+175;14/04/2023;Porto Alegre/RS;834;Corporativo;5
+176;05/05/2023;Rio de Janeiro/RJ;136;Educativo;1
+177;19/10/2023;Rio de Janeiro/RJ;143;Esportivo;4
+178;14/11/2023;Belo Horizonte/MG;418;Corporativo;5
+179;05/01/2023;Salvador/BA;812;Cultural;2
+180;17/07/2023;São Paulo/SP;823;Educativo;2
+181;08/08/2023;Belo Horizonte/MG;734;Cultural;3
+182;14/04/2023;Belo Horizonte/MG;70;Corporativo;5
+183;12/12/2023;Porto Alegre/RS;802;Cultural;3
+184;15/05/2023;Rio de Janeiro/RJ;343;Cultural;1
+185;09/01/2023;Belo Horizonte/MG;808;Corporativo;5
+186;14/06/2023;Belo Horizonte/MG;160;Esportivo;1
+187;10/08/2023;Salvador/BA;489;Cultural;3
+188;06/07/2023;Salvador/BA;806;Cultural;5
+189;17/03/2023;São Paulo/SP;821;Esportivo;3
+190;18/08/2023;Porto Alegre/RS;353;Cultural;5
+191;17/07/2023;São Paulo/SP;912;Cultural;3
+192;05/09/2023;Salvador/BA;983;Cultural;2
+193;21/08/2023;Rio de Janeiro/RJ;392;Social;3
+194;09/05/2023;Salvador/BA;583;Esportivo;2
+195;19/04/2023;Porto Alegre/RS;513;Cultural;3
+196;19/09/2023;Salvador/BA;558;Esportivo;5
+197;03/05/2023;Porto Alegre/RS;688;Educativo;5
+198;13/02/2023;Porto Alegre/RS;770;Educativo;5
+199;06/06/2023;Porto Alegre/RS;175;Cultural;4
+200;07/08/2023;Porto Alegre/RS;310;Esportivo;1
+201;05/07/2023;Porto Alegre/RS;667;Esportivo;5
+202;29/11/2023;Rio de Janeiro/RJ;163;Esportivo;2
+203;27/11/2023;São Paulo/SP;125;Social;5
+204;26/06/2023;Belo Horizonte/MG;439;Educativo;4
+205;21/08/2023;São Paulo/SP;689;Esportivo;2
+206;14/04/2023;Porto Alegre/RS;677;Esportivo;4
+207;27/06/2023;Rio de Janeiro/RJ;21;Social;2
+208;05/01/2023;Salvador/BA;964;Social;3
+209;06/01/2023;Rio de Janeiro/RJ;608;Esportivo;1
+210;09/03/2023;Porto Alegre/RS;663;Corporativo;1
+211;03/08/2023;Rio de Janeiro/RJ;109;Esportivo;4
+212;09/06/2023;Rio de Janeiro/RJ;364;Esportivo;1
+213;27/10/2023;Porto Alegre/RS;369;Social;4
+214;31/07/2023;Rio de Janeiro/RJ;478;Social;4
+215;01/02/2023;Belo Horizonte/MG;282;Esportivo;4
+216;29/08/2023;Belo Horizonte/MG;370;Esportivo;1
+217;11/10/2023;Rio de Janeiro/RJ;127;Esportivo;4
+218;06/04/2023;Salvador/BA;605;Social;1
+219;10/01/2023;Porto Alegre/RS;58;Esportivo;4
+220;16/11/2023;Belo Horizonte/MG;928;Esportivo;5
+221;02/08/2023;Salvador/BA;178;Cultural;4
+222;01/06/2023;Rio de Janeiro/RJ;602;Corporativo;2
+223;20/11/2023;Salvador/BA;978;Educativo;4
+224;29/03/2023;São Paulo/SP;331;Corporativo;3
+225;17/07/2023;Belo Horizonte/MG;260;Cultural;4
+226;01/11/2023;Rio de Janeiro/RJ;957;Educativo;2
+227;29/11/2023;Porto Alegre/RS;464;Esportivo;2
+228;09/01/2023;Rio de Janeiro/RJ;317;Cultural;1
+229;03/02/2023;Porto Alegre/RS;971;Esportivo;5
+230;03/05/2023;Rio de Janeiro/RJ;55;Social;4
+231;17/07/2023;Salvador/BA;103;Cultural;1
+232;21/07/2023;Salvador/BA;471;Social;5
+233;28/02/2023;Salvador/BA;905;Cultural;4
+234;22/12/2023;São Paulo/SP;794;Cultural;3
+235;28/08/2023;Porto Alegre/RS;841;Social;4
+236;18/01/2023;Salvador/BA;404;Educativo;2
+237;26/04/2023;São Paulo/SP;191;Corporativo;2
+238;28/08/2023;Porto Alegre/RS;395;Esportivo;3
+239;07/11/2023;Rio de Janeiro/RJ;704;Cultural;1
+240;18/07/2023;São Paulo/SP;381;Esportivo;5
+241;28/02/2023;Belo Horizonte/MG;578;Social;4
+242;09/01/2023;São Paulo/SP;910;Esportivo;2
+243;26/12/2023;São Paulo/SP;160;Social;1
+244;04/05/2023;Porto Alegre/RS;906;Esportivo;3
+245;02/06/2023;Rio de Janeiro/RJ;937;Corporativo;2
+246;16/11/2023;Belo Horizonte/MG;137;Corporativo;3
+247;09/01/2023;Salvador/BA;296;Corporativo;4
+248;09/01/2023;Salvador/BA;745;Corporativo;5
+249;28/09/2023;São Paulo/SP;239;Corporativo;2
+250;09/08/2023;Porto Alegre/RS;924;Corporativo;2
+251;19/04/2023;Porto Alegre/RS;45;Social;4
+252;09/03/2023;Salvador/BA;540;Cultural;1
+253;14/06/2023;Belo Horizonte/MG;802;Esportivo;5
+254;06/10/2023;Rio de Janeiro/RJ;29;Corporativo;2
+255;30/06/2023;Belo Horizonte/MG;397;Social;5
+256;09/01/2023;Rio de Janeiro/RJ;652;Social;2
+257;09/01/2023;Salvador/BA;656;Social;5
+258;01/02/2023;Rio de Janeiro/RJ;701;Cultural;3
+259;31/07/2023;Porto Alegre/RS;603;Esportivo;2
+260;04/10/2023;São Paulo/SP;171;Cultural;5
+261;13/03/2023;São Paulo/SP;739;Educativo;1
+262;01/11/2023;Salvador/BA;68;Social;3
+263;11/07/2023;Porto Alegre/RS;173;Educativo;3
+264;08/08/2023;Belo Horizonte/MG;878;Corporativo;1
+265;02/01/2023;Porto Alegre/RS;312;Corporativo;5
+266;04/01/2023;São Paulo/SP;599;Cultural;4
+267;28/02/2023;São Paulo/SP;69;Esportivo;1
+268;19/04/2023;Porto Alegre/RS;683;Educativo;5
+269;04/10/2023;Porto Alegre/RS;550;Esportivo;1
+270;11/01/2023;São Paulo/SP;631;Cultural;1
+271;05/06/2023;Belo Horizonte/MG;79;Corporativo;2
+272;18/01/2023;Salvador/BA;186;Esportivo;5
+273;09/06/2023;Salvador/BA;221;Esportivo;4
+274;30/06/2023;Porto Alegre/RS;876;Corporativo;2
+275;22/05/2023;Salvador/BA;165;Educativo;1
+276;22/02/2023;São Paulo/SP;934;Corporativo;1
+277;16/05/2023;São Paulo/SP;695;Esportivo;1
+278;01/08/2023;Porto Alegre/RS;989;Educativo;5
+279;14/07/2023;Porto Alegre/RS;458;Educativo;5
+280;20/01/2023;Porto Alegre/RS;261;Corporativo;2
+281;19/10/2023;Belo Horizonte/MG;600;Esportivo;4
+282;26/12/2023;Salvador/BA;706;Cultural;2
+283;26/09/2023;Porto Alegre/RS;580;Esportivo;3
+284;07/04/2023;Rio de Janeiro/RJ;502;Social;1
+285;08/08/2023;Rio de Janeiro/RJ;127;Cultural;1
+286;28/11/2023;São Paulo/SP;245;Educativo;1
+287;25/01/2023;Salvador/BA;692;Cultural;2
+288;23/02/2023;Porto Alegre/RS;650;Educativo;2
+289;09/03/2023;Rio de Janeiro/RJ;680;Educativo;1
+290;02/01/2023;Salvador/BA;996;Cultural;2
+291;26/07/2023;São Paulo/SP;681;Educativo;5
+292;10/11/2023;Belo Horizonte/MG;451;Educativo;5
+293;25/01/2023;Salvador/BA;824;Social;2
+294;26/12/2023;Salvador/BA;674;Esportivo;1
+295;03/11/2023;Belo Horizonte/MG;438;Esportivo;2
+296;21/09/2023;Salvador/BA;474;Social;2
+297;26/04/2023;São Paulo/SP;179;Cultural;2
+298;16/01/2023;São Paulo/SP;542;Corporativo;3
+299;07/12/2023;Belo Horizonte/MG;669;Corporativo;5
+300;04/07/2023;Porto Alegre/RS;988;Corporativo;4
